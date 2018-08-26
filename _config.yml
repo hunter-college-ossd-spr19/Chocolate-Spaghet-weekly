@@ -39,7 +39,8 @@ footer-links:
 url: "https://hunter-college-cs-ossd.github.io/weekly" 
 
 # CUSTOMIZE
-# Replace this with the name of your own repository. It should be "/weekly-" followed by your username.
+# Replace "weekly" by the name of your own repository. It should be 
+# "your-username-weekly".
 baseurl: "/weekly"
 
 #
