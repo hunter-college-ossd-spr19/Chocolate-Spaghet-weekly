@@ -38,8 +38,8 @@ In any case, make sure that you use *Markdown* to format this page.
 8. After you have completed all of the steps above, modify this `README.md` file
 so that it contains a short description of your repository. 
 You will not need to keep these instructions in this file, since they 
-are replicated in the file INSTRUCTIONS.md contained in this repository. 
-As an idea, it could be something like this:
+are in the template and can always be read there. As an idea, it could be something
+like this:
 
 > This repository belongs to ... and contains weekly blogs written by ...
 > for a course in Open Source software development.
