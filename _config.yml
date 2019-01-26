@@ -7,17 +7,17 @@
 # Name of your site (displayed in the header)
 # Replace "Your Name" below either by your real name or by a nickname if you
 # would prefer not to show your real anme.
-name: Your Name
+name: "Andrey Shtukenberg"
 
 # CUSTOMIZE
 # Short bio or description (displayed in the header)
 # Replace "Course Name" and "Semester" by the actual course name and semester,
 # e.g.: CSci 395.86 Open Source Software Development, Spring 2019
-description: Course Name, Semester
+description: "Open Source Software Development", "Spring 2019"
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11898802_877769288980605_7219181921354228176_n.jpg?_nc_cat=100&_nc_ht=scontent-iad3-1.xx&oh=35c6460bb5663dbf2635aab21a557a06&oe=5CC883B8"
 
 # CUSTOMIZE
 # Flags below are optional - customize them if you wish or leave them without 
@@ -26,10 +26,10 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: shtuk.andrey@gmail.com
   facebook:
   flickr:
-  github:        # your GitHub username
+  github: "Chocolate-Spaghet"       # your GitHub username
   instagram:
   linkedin:
   pinterest:
@@ -44,7 +44,7 @@ footer-links:
 # You must replace the last part of the URL, i.e., the word "weekly", by the 
 # name of your own repository, which must be of the form, "your-username-weekly"
 # where "your-username" is your GitHub username.
-url: "https://hunter-college-ossd-spr19.github.io/weekly" 
+url: "https://hunter-college-ossd-spr19.github.io/Chocolate-Spaghet-weekly" 
 
 # CUSTOMIZE
 # The baseurl is used by Jekyll as a relative repository name.
