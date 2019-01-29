@@ -1,46 +1,11 @@
-# About Your Jekyll-based Blog Hosted on GitHub Pages
+# Chocolate Spaghet's weekly blogs
 
-Jekyll is a simple, open-source, blog-aware, static site generator.
-Jekyll is the engine behind GitHub Pages, so you can host your 
-Jekyll blog on GitHub’s servers for free. The difficult work has
-already been done for you; all you have to do is some simple
-user-specific tinkering in the repository that has been created for
-you.
+This repositoyry belongs to [Andrey Shtukenberg](https://github.com/Fioringo) and contains weekly blogs accounting for my Open Source activites. The goal is to contribute as much as possible to the open source community and projects in the period of time I'm given by the class.
 
-# Instructions For Setting Up Your Weekly Blog Repository
+### Some Links...
 
-Follow the steps below in order to set up your weekly blog.
+[Here](https://hunter-college-ossd-spr19.github.io/Chocolate-Spaghet-weekly/) is a link to the blog! It's completely written by me and contains my open source weekly activities.
 
-1. Locate your repository in the class organization; 
-it is named *YOUR_ID*-weekly, where *YOUR_ID* is the GitHub user name that you
-chose for yourself. 
+[Here](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci395.86/cs395.86_s19.php) is a link to the course! It's completely written by Professor Stewart Weiss!
 
-2. Click on the repository icon to open it.
-
-3. Find the *Settings* button (the rightmost button in the toolbar)
-and click on it to edit the settings.
-
-4. Scroll down to **GitHub Pages** section.
-
-5. In the subsection labeled "Source" there is a button that should be labeled
-   **master branch**. If it is not, it needs to be changed. You most likely do 
-   not have permission to make the change. 
-   If you do not have permission to do this, contact the owner of our
-   organization (Stewart Weiss).
-    
-6. Edit the `_config.yml` file and follow the instructions in the comments in that file.
-
-7. Edit the `about.md` file to include some information about yourself. Since the
-blog posts and this file are public, everyone can see what you put there, so 
-give some thought to what you would like to say.
-In any case, make sure that you use *Markdown* to format this page. 
-
-8. After you have completed all of the steps above, modify this `README.md` file
-so that it contains a short description of your repository. 
-You will not need to keep these instructions in this file, since they 
-are replicated in the file INSTRUCTIONS.md contained in this repository. 
-As an idea, it could be something like this:
-
-> This repository belongs to ... and contains weekly blogs written by ...
-> for a course in Open Source software development.
-
+###### Enjoy!
